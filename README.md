@@ -6,6 +6,10 @@
 
 Датасет содержит 19 230 изображений с латинским, русским и немного китайским текстом из "реального мира", преимущественно с печатным шрифтом, размеченных на уровне слов.
 
+Каждому изображению в папке <b>images</b> соответствует текстовый файл с разметкой из папки <b>labels</b> с таким же именем как у изображения.
+Так же присутствует файл разметки в формате JSON.
+
+
 <img src="https://user-images.githubusercontent.com/66531939/219589676-8d031575-65b5-4ce6-b71a-8a17ede1a806.jpg" width="200" height="200"> <img src="https://user-images.githubusercontent.com/66531939/219589797-edb2a56b-1861-49d3-ab3c-a060c8ecc590.jpg" width="200" height="200">
 <img src="https://user-images.githubusercontent.com/66531939/219590050-81a08444-ad37-4416-8555-dfed7cc82287.jpg" width="200" height="200">
 <img src="https://user-images.githubusercontent.com/66531939/219590093-02a61f8f-30f0-4280-bbbd-7e4b4e3b1a3a.jpg" width="200" height="200">
