@@ -25,3 +25,9 @@
 <img src="https://user-images.githubusercontent.com/66531939/219933018-2d684f2b-b129-432f-aa2e-c25b573e86b8.jpg" width="200" height="200">
 <img src="https://user-images.githubusercontent.com/66531939/219933019-e999af31-7512-45f4-9c64-3fff0da0fd4e.jpg" width="200" height="200">
 <img src="https://user-images.githubusercontent.com/66531939/219933020-460d3694-0989-48ad-b5b5-d6cbdce47a9d.jpg" width="200" height="200">
+
+Скачать <a href="https://drive.google.com/file/d/1TR-kmQH47u0WO91mwf3OhE5Ldpnmetjj/view?usp=share_link">Google Drive</a> 5,24 Гб.
+
+Если у вас возникло желание отблагодарить автора не в коем случае не отказывайте себе в этом.
+
+<a href="https://yoomoney.ru/to/4100118123680098">ЮMoney</a>
