@@ -1,4 +1,4 @@
-# TextDetectionDataset
+# Text Detection Dataset
 
 <b>SD-TextDetection</b>
 
@@ -25,10 +25,15 @@
 <img src="https://user-images.githubusercontent.com/66531939/219933018-2d684f2b-b129-432f-aa2e-c25b573e86b8.jpg" width="200" height="200">
 <img src="https://user-images.githubusercontent.com/66531939/219933019-e999af31-7512-45f4-9c64-3fff0da0fd4e.jpg" width="200" height="200">
 <img src="https://user-images.githubusercontent.com/66531939/219933020-460d3694-0989-48ad-b5b5-d6cbdce47a9d.jpg" width="200" height="200">
+<img src="https://user-images.githubusercontent.com/66531939/220335509-03b6b51a-c0e0-4bfa-8022-3eb8db553155.jpg" width="200" height="200">
+<img src="https://user-images.githubusercontent.com/66531939/220335515-c8858944-d799-4a00-a724-49bd002a574b.jpg" width="200" height="200">
+<img src="https://user-images.githubusercontent.com/66531939/220335517-3a4d88fc-3332-49a6-89e9-708f6c7ca426.jpg" width="200" height="200">
+<img src="https://user-images.githubusercontent.com/66531939/220335519-e6b2a98b-ccd3-40ff-9d3b-26a000993c1b.jpg" width="200" height="200">
 
-Скачать - <a href="https://drive.google.com/file/d/1TR-kmQH47u0WO91mwf3OhE5Ldpnmetjj/view?usp=share_link">Google Drive</a> - 5,24 Гб.
 
-Если у вас возникло желание отблагодарить автора не в коем случае не отказывайте себе в этом.
+Скачать - <a href="https://drive.google.com/file/d/1TR-kmQH47u0WO91mwf3OhE5Ldpnmetjj/view?usp=share_link">Google Drive</a> - 5,24 GB.
+
+Если у вас возникло желание отблагодарить автора не отказывайте себе в этом.
 
 <a href="https://yoomoney.ru/to/4100118123680098">ЮMoney</a>
 
