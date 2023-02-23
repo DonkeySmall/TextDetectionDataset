@@ -1,6 +1,6 @@
-# Text Detection Dataset
-
 <a href="https://github.com/DonkeySmall/TextDetectionDataset/blob/main/README.md">Русский</a> | 简体中文
+
+# Text Detection Dataset
 
 <b>SD-TextDetection</b>
 
