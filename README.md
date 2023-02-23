@@ -1,4 +1,5 @@
 # Text Detection Dataset
+Русский | 简体中文
 
 <b>SD-TextDetection</b>
 
