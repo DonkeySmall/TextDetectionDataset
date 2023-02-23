@@ -1,5 +1,7 @@
 # Text Detection Dataset
 
+<a href="https://github.com/DonkeySmall/TextDetectionDataset/blob/main/README.md">Русский</a> | 简体中文
+
 <b>SD-TextDetection</b>
 
 文本场景检索任务的数据集。
