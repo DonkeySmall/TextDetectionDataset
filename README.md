@@ -6,7 +6,7 @@
 
 Набор данных для задач детектирования текстовых сцен.
 
-Датасет содержит 19 230 изображений с латинским, русским и немного китайским текстом из "реального мира", преимущественно с печатным шрифтом, размеченных на уровне слов.
+Датасет содержит 27 475 изображений с латинским, русским и немного китайским текстом из "реального мира" и сгенерированные, преимущественно с печатным шрифтом, размеченных на уровне слов.
 
 Каждому изображению в папке <b>images</b> соответствует текстовый файл с разметкой из папки <b>labels</b> с таким же именем как у изображения.
 Так же присутствует файл разметки в формате JSON.
@@ -32,8 +32,15 @@
 <img src="https://user-images.githubusercontent.com/66531939/220335517-3a4d88fc-3332-49a6-89e9-708f6c7ca426.jpg" width="200" height="200">
 <img src="https://user-images.githubusercontent.com/66531939/220335519-e6b2a98b-ccd3-40ff-9d3b-26a000993c1b.jpg" width="200" height="200">
 
+<img src="https://user-images.githubusercontent.com/66531939/222364629-f1b68f1f-9f06-44f8-adb6-8b1cea45da6e.jpg" width="200" height="200"><img src="https://user-images.githubusercontent.com/66531939/222364633-be54c7c4-0716-4e67-884a-10deb43a9d2d.jpg" width="200" height="200">
+<img src="https://user-images.githubusercontent.com/66531939/222364636-1d16fc08-6504-4824-af85-8c4f2652e773.jpg" width="200" height="200">
+<img src="https://user-images.githubusercontent.com/66531939/222364638-912a3c9b-3f00-4b96-ac93-c4b560df0590.jpg" width="200" height="200">
+<img src="https://user-images.githubusercontent.com/66531939/222364642-90506737-1b79-4d04-92e1-5307494fb02f.jpg" width="200" height="200">
+<img src="https://user-images.githubusercontent.com/66531939/222364646-b1cb0044-c492-4a63-a249-5192128fa0ad.jpg" width="200" height="200">
+<img src="https://user-images.githubusercontent.com/66531939/222365353-04e98fd8-7338-4a5b-88f0-3e3b0fbd9bd4.jpg" width="200" height="200">
+<img src="https://user-images.githubusercontent.com/66531939/222365358-70140c45-f538-47f5-989d-da703632344c.jpg" width="200" height="200">
 
-Скачать - <a href="https://drive.google.com/file/d/1TR-kmQH47u0WO91mwf3OhE5Ldpnmetjj/view?usp=share_link">Google Drive</a> - 5,24 GB.
+Скачать <a href="https://drive.google.com/file/d/1YXFOsthfLx60-mbgrw5HXVZRfpVWz9LK/view?usp=sharing"><b>Google Drive</b></a> 5,92 GB.
 
 Если у вас возникло желание отблагодарить автора не отказывайте себе в этом.
 
